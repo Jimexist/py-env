@@ -1,0 +1,5 @@
+lxml
+ipython
+matplotlib
+scipy
+
