@@ -1,5 +1,3 @@
 lxml
 ipython
-matplotlib
-scipy
 
